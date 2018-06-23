@@ -2,39 +2,43 @@
 
 ## Description
 
-A short paragraph explaining what is covered in the lesson plan. This should be text that can be copied and used in a Meetup or workshop description.
+This lesson will prepare you to teach others to conduct Speaker Training and Diversity Outreach lessons.
 
 ## Prerequisite Skills
 
 A bulleted list of skills students require to learn and understand the lesson plan:
 
-*   List of skills
+*   Understanding of the benefits of diversity and inclusion
+*   Familiarity with common WordPress-community communication tools (Zoom, Slack, etc.)
 
 ## Objectives
 
-It’s recommended that you include a bulleted list of objective(s) for each lesson plan. Objectives should be worded as actions that the student can do once they’ve finished. See [Bloom's Taxonomy of Action Verbs](http://www.fresnostate.edu/academics/oie/documents/assesments/Blooms%20Level.pdf) (PDF) as a reference. Avoid using words like "know," "understand," "be introduced to," etc. **Correct**
-
-*   Students will be able to identify the files required to make a theme.
-
-**Incorrect**
-
-*   Students will know the files required to make a theme.
+*   Students will be able to help trainees understand and select which lesson modules to teach.
+*   Students will be able to find and use the course materials (lesson plan, video, sample slides, etc.).
+*   Students will be prepared to address common questions and concerns. 
 
 ## Assets
 
 A bulleted list of linked files/materials the instructor needs to teach the lesson plan.
 
 *   [Links to download files](#)
+*   [Links to download files](#)
+*   [Links to download files](#)
+*   [Links to download files](#)
 
 ## Screening Questions
 
 A list of evaluation questions for students to see if they have the skills necessary to learn and understand the lesson. These can be used as pre-screening questions on Meetup.
 
-*   For example, have you ever used WordPress?
+*   Have you spoken at a WordPress meetup, WordCamp, or similar event before?
+*   Have you conducted workshops or other trainings before?
 
 ## Teacher Notes
 
 A bulleted list of any handy tips or information for the instructor.
+
+*   There are currently three main lessons, two ancillary lessons, and one lesson in development.
+*   
 
 *   Tips teachers may want to know
 
